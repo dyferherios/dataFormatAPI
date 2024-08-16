@@ -1,0 +1,26 @@
+<school>
+    <name>HEI</name>
+    <creationDate>2021</creationDate>
+    <field>Informatique</field>
+    <studentsNumber>200</studentsNumber>
+    <students>
+        <student>
+            <name>RAKOTO</name>
+            <reference>STD001</reference>
+            <group>
+                <name>A1</name>
+                <level>L2</level>
+                <year>2023</year>
+            </group>
+        </student>
+        <student>
+            <name>RABE</name>
+            <reference>STD002</reference>
+            <group>
+                <name>A2</name>
+                <level>L3</level>
+                <year>2022</year>
+            </group>
+        </student>
+    </students>
+</school>

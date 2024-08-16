@@ -1,0 +1,26 @@
+{
+    "name":"HEI",
+    "creationDate":2021,
+    "field":"Informatique",
+    "studentsNumber":200,
+    "students":[
+        {   
+            "name": "RAKOTO",
+            "reference" : "STD001",
+            "group":{
+                "name":"A1",
+                "level":"L2",
+                "year":2023
+            }
+        }, 
+        {   
+            "name": "RABE",
+            "reference" : "STD002",
+            "group":{
+                "name":"A2",
+                "level":"L3",
+                "year":2022
+            }
+        }
+    ]
+}
